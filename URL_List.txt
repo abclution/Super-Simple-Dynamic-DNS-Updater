@@ -1,0 +1,3 @@
+https://MYDYNAMICHOSTNAME.nsupdate.info:MYSECRETE@ipv4.nsupdate.info/nic/update
+https://MYDYNAMICHOSTNAME.nsupdate.info:MYSECRETE@ipv6.nsupdate.info/nic/update
+https://freedns.afraid.org/dynamic/update.php?MYSUPERSECRETKEY23kjfj234=
