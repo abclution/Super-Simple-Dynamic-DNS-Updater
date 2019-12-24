@@ -55,12 +55,13 @@ It will run in a console window, until closed or Ctrl+C to stop the .bat file.
  
 
 # WINDOWS SERVICE USAGE: 
-Run "INSTALL SuperSimple Dynamic DNS Service.bat" - Installs a windows service (SuperSimple Dynamic DNS Service)
-Run "EDIT Super Simple Dynamic DNS Service.bat" - To edit the service parameters in case you have special needs.
-Run "REMOVE SuperSimple Dynamic DNS Service.bat" - To remove the service. (SuperSimple Dynamic DNS Service)
+* Run "INSTALL SuperSimple Dynamic DNS Service.bat" - Installs a windows service (SuperSimple Dynamic DNS Service)
+* Run "EDIT Super Simple Dynamic DNS Service.bat" - To edit the service parameters in case you have special needs.
+* Run "REMOVE SuperSimple Dynamic DNS Service.bat" - To remove the service. (SuperSimple Dynamic DNS Service)
 
 ## IMPORTANT NOTE ABOUT WINDOWS SERVICE and EXTRACTED FILES LOCATION
 If you have installed the (SuperSimple Dynamic DNS Service), you should *NOT* move the SuperSimple Dynamic DNS Service files from their current location.
+
 If you find that you would like to move (SuperSimple Dynamic DNS Updater to another folder on your disk, it is reccomended to first 
 
 Run "REMOVE SuperSimple Dynamic DNS Service.bat" then,
@@ -71,7 +72,7 @@ And finally Run "INSTALL SuperSimple Dynamic DNS Service.bat" to install the ser
 # INCLUDED BINARIES INFORMATION
 
 - wget.exe - WGET the classic file fetch utility from linux land.
- - Wget is used to fetch/connect to the Dynamic DNS provider and update.
+  - Wget is used to fetch/connect to the Dynamic DNS provider and update.
 
 - nssm.exe - The Non-Sucking Service Manager http://nssm.cc/
- - NSSM is used to simply create a service for Super Simple Dynamic DNS Updater - SSDDNSUpdate.bat 
+  - NSSM is used to simply create a service for Super Simple Dynamic DNS Updater - SSDDNSUpdate.bat 
