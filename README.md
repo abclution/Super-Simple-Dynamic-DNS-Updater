@@ -62,11 +62,11 @@ It will run in a console window, until closed or Ctrl+C to stop the .bat file.
 ## IMPORTANT NOTE ABOUT WINDOWS SERVICE and EXTRACTED FILES LOCATION
 If you have installed the (SuperSimple Dynamic DNS Service), you should *NOT* move the SuperSimple Dynamic DNS Service files from their current location.
 
-If you find that you would like to move (SuperSimple Dynamic DNS Updater to another folder on your disk, it is reccomended to first 
+### If you find that you would like to move (SuperSimple Dynamic DNS Updater to another folder on your disk, it is reccomended to first 
 
-Run "REMOVE SuperSimple Dynamic DNS Service.bat" then,
-Move the Super Simple Dynamic DNS Updater files to the destination you wish.
-And finally Run "INSTALL SuperSimple Dynamic DNS Service.bat" to install the service again.
+1. Run "REMOVE SuperSimple Dynamic DNS Service.bat" then,
+2. Move the Super Simple Dynamic DNS Updater files to the destination you wish.
+3. And finally Run "INSTALL SuperSimple Dynamic DNS Service.bat" to install the service again.
 
 
 # INCLUDED BINARIES INFORMATION
