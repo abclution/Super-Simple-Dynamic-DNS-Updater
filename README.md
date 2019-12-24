@@ -1,8 +1,6 @@
 # Super Simple Dynamic DNS Updater - SSDDNSUpdate.bat
-#### Version: .1 Initial Release
-##### 2019-12-24
+####  2019-12-24 Version: .1 Initial Release
 
---------------------------------------------------------
 # DESCRIPTON:
 A simple way to update dynamic dns hostnames on Windows for compatible providers.
 
@@ -72,10 +70,8 @@ And finally Run "INSTALL SuperSimple Dynamic DNS Service.bat" to install the ser
 
 # INCLUDED BINARIES INFORMATION
 
-wget.exe - WGET the classic file fetch utility from linux land.
+- wget.exe - WGET the classic file fetch utility from linux land.
+ - Wget is used to fetch/connect to the Dynamic DNS provider and update.
 
-Wget is used to fetch/connect to the Dynamic DNS provider and update.
-
-nssm.exe - The Non-Sucking Service Manager http://nssm.cc/
-
-NSSM is used to simply create a service for Super Simple Dynamic DNS Updater - SSDDNSUpdate.bat 
+- nssm.exe - The Non-Sucking Service Manager http://nssm.cc/
+ - NSSM is used to simply create a service for Super Simple Dynamic DNS Updater - SSDDNSUpdate.bat 
