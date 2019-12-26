@@ -1,5 +1,6 @@
 # Super Simple Dynamic DNS Updater - SSDDNSUpdate.bat
-####  2019-12-24 Version: .1 Initial Release
+####  2019-12-26 Version: .2 Second Release, NsUpdate.info Compatible
+~~####  2019-12-24 Version: .1 Initial Release
 
 # DESCRIPTON:
 A simple way to update dynamic dns hostnames on Windows for compatible providers.
